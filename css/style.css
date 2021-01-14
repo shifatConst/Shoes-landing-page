@@ -1,0 +1,37 @@
+header{
+    background-color: #FFF9F4;
+}
+#nav-logo{
+    height: 30px;
+    width: auto;
+}
+.nav-bg{
+    background-color: #FFF9F4;
+}
+.primary-highlight{
+    color: #fa804c;
+}
+.secondary-highlight{
+    color: #363958;
+}
+.h1-large{
+    font-size: 45px;
+    font-weight: bold;
+}
+.nav-text{
+    font-weight: bold;
+}
+
+.feature-card-img{
+    width: 120px;
+    padding: 5px;
+}
+
+.contact-us{
+    background-color: #fa804c;
+}
+/* .contact-us-border{
+    height: 200px;
+    width: 700px;
+    border: 1px solid gray;
+} */
